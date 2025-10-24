@@ -17,5 +17,5 @@ Postdoctoral Research Fellow, Johns Hopkins School of Medicine
 - project 2!
 
 
-For a full list of publications, see https://scholar.google.com/citations?user=T2E7-X4AAAAJ<img width="468" height="26" alt="image" src="https://github.com/user-attachments/assets/99f505af-7eca-4130-b2c2-3e58eeb8b99d" />
+For a full list of publications, see [Google Scholar: Wikum Dinalankara](https://scholar.google.com/citations?user=T2E7-X4AAAAJ)
 
