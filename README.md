@@ -1,7 +1,4 @@
-# wikum.github.io
-
-Wikum Dinalankara, Ph.D.
-
+# Wikum Dinalankara, Ph.D.
 Postdoctoral Associate, Weill Cornell Medical College
 
 #### Machine Learning | Omics | Computational Biology 
@@ -17,7 +14,7 @@ Research Fellow, Johns Hopkins School of Medicine, Baltimore, MD
 
 ## Projects
 ### Machine learning for flowcytometry data analysis
-•	Comparative analysis of three available algorithms for multi-class disease type prediction with flow cytometry data; the methods compared use convolutional neural networks, random forests, and multiple dimensionality reduction tools (UMAP, Self-Organizing Maps). These methods were obtained from existing code or implemented, and benchmarked in terms of classification performance and resource usage.
+•	Comparative analysis of three available algorithms for multi-class disease type prediction with flow cytometry data; the methods compared use convolutional neural networks, random forests, and multiple dimensionality reduction tools (UMAP, Self-Organizing Maps). These methods were obtained from existing code or implemented, and benchmarked in terms of classification performance and resource usage. (Repository | Python)[https://github.com/wikum/flowComparison]
 
 •	Design and implementation of a novel algorithm for residual disease prediction with loosely labeled flow cytometry data; the algorithm uses dimensionality reduction in conjunction with a random forests to predict the presence of remaining disease and perform quantification (regression). The method is currently being prepared for a pilot clinical test deployment using google cloud platform (GCP).
 
