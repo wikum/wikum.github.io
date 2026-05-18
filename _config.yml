@@ -3,7 +3,7 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# `jekyll serve -l -H localhost`. If you change this file, please restart the
 # server process.
 
 # Basic Site Settings
@@ -37,7 +37,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=T2E7-X4AAAAJ"
   inspire-hep      :
   impactstory      :
-  orcid            :
+  orcid            : "0000-0002-8017-6916"
   semantic         :
   ssrn             :
   pubmed           :
@@ -85,7 +85,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
